@@ -1,0 +1,9 @@
+D:\GitExample\demo\bin\Debug\demo.exe
+D:\GitExample\demo\bin\Debug\demo.pdb
+D:\GitExample\demo\obj\Debug\demo.csprojAssemblyReference.cache
+D:\GitExample\demo\obj\Debug\demo.Form1.resources
+D:\GitExample\demo\obj\Debug\demo.FrmDMHangHoa.resources
+D:\GitExample\demo\obj\Debug\demo.Properties.Resources.resources
+D:\GitExample\demo\obj\Debug\demo.csproj.GenerateResource.cache
+D:\GitExample\demo\obj\Debug\demo.exe
+D:\GitExample\demo\obj\Debug\demo.pdb
